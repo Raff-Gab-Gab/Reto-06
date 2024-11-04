@@ -52,3 +52,5 @@ Este script maneja y actualiza la puntuación total del jugador en el juego, ref
 
 Se creó un script llamado GameModeManager que cambia la escena del juego a una de victoria o derrota según el resultado. 
 Este script monitorea el estado del juego y define el fin de la partida en función del éxito o fracaso del jugador.
+
+[Volver al Readme](README.md)
