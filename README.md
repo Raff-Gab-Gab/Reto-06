@@ -5,5 +5,7 @@ En este reto se creó una plataforma 4 x 4 donde se aparecen enemigos de las cua
 
 # Videos probando el minijuego
 
-# Secciones
-[Estructura](Estructura.md)
+## Secciones
+[Jugadores y enemigos](JugadoresYEnemigos.md) <br />
+[Estructura](Estructura.md) <br />
+[Códigos para la estructura/plataforma](CódigoDeEstructura.md)
