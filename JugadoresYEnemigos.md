@@ -96,8 +96,8 @@ Este script monitorea el estado del juego y define el fin de la partida en funci
 
 Video probando el damage, shooting, movement y el spawn.
 
+![ezgif-3-744d7e39a8](https://github.com/user-attachments/assets/190740d3-8c92-48f6-a865-bf49349484b7)
 
-https://github.com/user-attachments/assets/0f2ff57b-9bbc-4dc6-b715-702012b60a8e
 
 
 
