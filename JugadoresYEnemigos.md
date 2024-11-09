@@ -97,6 +97,13 @@ Se creó un script llamado GameModeManager que cambia la escena del juego a una 
 Este script monitorea el estado del juego y define el fin de la partida en función del éxito o fracaso del jugador.
 
 
+# Win y Lose screen
+
+Lose
+![image](https://github.com/user-attachments/assets/c443f5f4-aa61-47ef-b1d0-a76014e932f0)
+![image](https://github.com/user-attachments/assets/6001f6a1-d808-4e35-9114-fdf5bbc7479d)
+
+
 
 
 
