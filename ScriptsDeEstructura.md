@@ -36,4 +36,9 @@ Para que se cumpla este caso, la bala tuvo que haber chocado con una de las cuat
   <img src="https://github.com/user-attachments/assets/a0ae115c-7b5a-4a29-92dd-223fb8ab6b9b" height="400" width="800" />
 </p>
 
+# Videos probando floor y corner scripts
+![GIFMaker_me(2)](https://github.com/user-attachments/assets/c4212287-09a7-461c-9a33-a8dbd4d526cb)
+
+![GIFMaker_me(3)](https://github.com/user-attachments/assets/bef74e9d-d752-4fe1-8239-2c7fcfcf0552)
+
 [Volver al Readme](README.md)
