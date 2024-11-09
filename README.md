@@ -13,3 +13,4 @@ En este reto se creó una plataforma 4 x 4 donde se aparecen enemigos de las cua
 
 https://github.com/user-attachments/assets/4c4ed184-38e5-42e8-a94a-410a240a8027
 
+https://github.com/user-attachments/assets/2ce203ac-ff94-4293-90b6-35dad9f081d3
