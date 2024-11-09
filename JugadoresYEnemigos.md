@@ -41,7 +41,7 @@ Importamos un prefab para la bala, el cual representa el proyectil que dispara e
 Este prefab contiene un script llamado ContactDamage, que elimina la bala al entrar en contacto con algún objeto y le quite vida al objeto, simulando el impacto.
 ![image](https://github.com/user-attachments/assets/a7ff73ea-f6d9-46a2-8ae7-4af32ba83254)
 
-![GIFMaker_me](https://github.com/user-attachments/assets/047b4fb1-51dc-4652-b2ae-7c6ea479fe59)
+![GIFMaker_me(1)](https://github.com/user-attachments/assets/a630b77a-d111-4513-88cc-9cdccf8295d6)
 
 # Enemigo
 
@@ -79,8 +79,8 @@ Se creó un script de EnemyManager que agrega cada enemigo a una lista cuando ap
 
 ![Screenshot 2024-11-07 182756](https://github.com/user-attachments/assets/882d49b6-a3d4-4d3e-bc72-5e21833f995f)
 
+![GIFMaker_me](https://github.com/user-attachments/assets/047b4fb1-51dc-4652-b2ae-7c6ea479fe59)
 
-![GIFMaker_me(1)](https://github.com/user-attachments/assets/a630b77a-d111-4513-88cc-9cdccf8295d6)
 
 
 # Game mode
