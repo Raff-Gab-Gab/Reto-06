@@ -20,8 +20,7 @@ PlayerMovement: Controla el movimiento del jugador en el espacio de juego. Gesti
 ![Captura de pantalla 2024-11-08 204848](https://github.com/user-attachments/assets/3132cd71-4a0f-43c9-8485-1d3098b90731)
 
 Life: Controla la vida del jugador.
-
-![Screenshot 2024-11-07 181118](https://github.com/user-attachments/assets/56cf7cbc-a2ee-4c94-bb01-a1c52a9f3abb)
+![Captura de pantalla 2024-11-08 205435](https://github.com/user-attachments/assets/3aa60074-9af1-4fde-b8dc-d8d54f54f461)
 
 Player Input Component y Actions: Utilizamos el componente Player Input y configuramos las acciones para capturar las entradas del usuario, como movimiento y disparo.
 
@@ -39,9 +38,8 @@ Importamos un prefab para la bala, el cual representa el proyectil que dispara e
 
 ![Screenshot 2024-11-07 181914](https://github.com/user-attachments/assets/465369ad-8247-4737-99de-8565033677e8)
 
-Este prefab contiene un script llamado ContactDamage, que elimina la bala al entrar en contacto con algún objeto y le quite vida al objetp, simulando el impacto.
-
-![Screenshot 2024-11-07 182029](https://github.com/user-attachments/assets/dc3e207d-7c3c-4681-8b3c-c34a2f45903e)
+Este prefab contiene un script llamado ContactDamage, que elimina la bala al entrar en contacto con algún objeto y le quite vida al objeto, simulando el impacto.
+![image](https://github.com/user-attachments/assets/a7ff73ea-f6d9-46a2-8ae7-4af32ba83254)
 
 # Enemigo
 
@@ -49,9 +47,8 @@ Se agregaron varios scripts a los enemigos para manejar su comportamiento:
 
 ![Screenshot 2024-11-07 182301](https://github.com/user-attachments/assets/ddbe64e9-0660-49b9-a81e-455e350ee2a1)
 
-Enemy: Controla las acciones y patrones de movimiento de los enemigos.
-
-![Screenshot 2024-11-07 182401](https://github.com/user-attachments/assets/689469a8-edea-4817-90e2-af1e0a886c7c)
+Enemy: Añade y elimina las instancias de enemigos en la lista del EnemiesManager mientras se crean y se van destruyendo, respectivamente.
+![image](https://github.com/user-attachments/assets/427e4800-1d72-4d88-9931-0a1de1185329)
 
 Enemy forward: Mueve el enemigo hacia alante
 
