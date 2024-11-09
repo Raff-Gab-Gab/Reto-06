@@ -8,6 +8,7 @@ En este reto se creó una plataforma 4 x 4 donde se aparecen enemigos de las cua
 [Estructura](Estructura.md) <br />
 [Códigos para la estructura/plataforma](ScriptsDeEstructura.md) <br />
 [Lluvia](Lluvia.md)
+[Win y Lose Screens](Screens.md)
 
 # Videos probando el minijuego
 
