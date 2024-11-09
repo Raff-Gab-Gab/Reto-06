@@ -50,9 +50,8 @@ Se agregaron varios scripts a los enemigos para manejar su comportamiento:
 Enemy: Añade y elimina las instancias de enemigos en la lista del EnemiesManager mientras se crean y se van destruyendo, respectivamente.
 ![image](https://github.com/user-attachments/assets/427e4800-1d72-4d88-9931-0a1de1185329)
 
-Enemy forward: Mueve el enemigo hacia alante
-
-![Screenshot 2024-11-07 182409](https://github.com/user-attachments/assets/14df43df-97b7-43cb-b6d0-64a7246e8802)
+Enemy forward: Mueve el enemigo hacia adelante.
+![Captura de pantalla 2024-11-08 213417](https://github.com/user-attachments/assets/a836e825-73ad-4a50-b977-ec8348652773)
 
 Life: Asigna una cantidad de vida a los enemigos.
 
