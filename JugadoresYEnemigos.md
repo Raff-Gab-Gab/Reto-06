@@ -16,8 +16,8 @@ Se agregaron varios scripts y componentes al jugador para manejar sus acciones:
 ![Screenshot 2024-11-07 180823](https://github.com/user-attachments/assets/19d18f13-bc8e-4132-8735-c874848304d1)
 
 PlayerMovement: Controla el movimiento del jugador en el espacio de juego. Gestiona la mecánica de disparo del jugador.
-
-![Screenshot 2024-11-07 181138](https://github.com/user-attachments/assets/fd545b67-1bba-4dcd-9800-039122f90fc9)
+![Captura de pantalla 2024-11-08 204654](https://github.com/user-attachments/assets/51fa1a5c-341a-4489-a2f3-01c9e0266816)
+![Captura de pantalla 2024-11-08 204848](https://github.com/user-attachments/assets/3132cd71-4a0f-43c9-8485-1d3098b90731)
 
 Life: Controla la vida del jugador.
 
