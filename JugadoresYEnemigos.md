@@ -50,14 +50,14 @@ Se agregaron varios scripts a los enemigos para manejar su comportamiento:
 ![Screenshot 2024-11-07 182301](https://github.com/user-attachments/assets/ddbe64e9-0660-49b9-a81e-455e350ee2a1)
 
 Enemy: Añade y elimina las instancias de enemigos en la lista del EnemiesManager mientras se crean y se van destruyendo, respectivamente.
-![image](https://github.com/user-attachments/assets/427e4800-1d72-4d88-9931-0a1de1185329)
+![image](https://github.com/user-attachments/assets/eaa80dd3-72f9-4f34-8201-1484f5058cdf)
 
 Enemy forward: Mueve el enemigo hacia adelante.
 ![Captura de pantalla 2024-11-08 213417](https://github.com/user-attachments/assets/a836e825-73ad-4a50-b977-ec8348652773)
 
 Life: Asigna una cantidad de vida a los enemigos.
 
-![Screenshot 2024-11-07 182435](https://github.com/user-attachments/assets/55122062-f911-4c31-9764-e79ca5c5c30d)
+![image](https://github.com/user-attachments/assets/3a37757f-979c-447c-98ce-6fb1f218460f)
 
 Se crearon cuatro spawners ubicados en las esquinas del mapa, que sirven como puntos de aparición para los enemigos. 
 Estos spawners traen la generación constante de enemigos en diferentes lugares.
@@ -73,11 +73,15 @@ Estos spawners traen la generación constante de enemigos en diferentes lugares.
 Se desarrolló un script spawner que controla la aparición de enemigos en el escenario. 
 Se encarga de generar enemigos en los puntos designados en intervalos definidos.
 
-![Screenshot 2024-11-07 182741](https://github.com/user-attachments/assets/b43e0446-1254-45af-93a6-e4fc7edab72d)
+![image](https://github.com/user-attachments/assets/73fd7e3e-8a5d-482f-aac1-e7884548cca5)
+
+Se creo un script de WaveManager para agregar todos los waves de enemigos a una lista.
+
+![image](https://github.com/user-attachments/assets/374ef4a1-3911-4c17-8f5c-6f2fe12ef1a9)
 
 Se creó un script de EnemyManager que agrega cada enemigo a una lista cuando aparece y lo elimina cuando es destruido. 
 
-![Screenshot 2024-11-07 182756](https://github.com/user-attachments/assets/882d49b6-a3d4-4d3e-bc72-5e21833f995f)
+![image](https://github.com/user-attachments/assets/0fe86ed2-cf88-4203-a440-ee00a7fd405a)
 
 ![GIFMaker_me](https://github.com/user-attachments/assets/047b4fb1-51dc-4652-b2ae-7c6ea479fe59)
 
@@ -87,11 +91,11 @@ Se creó un script de EnemyManager que agrega cada enemigo a una lista cuando ap
 
 Se asignó a cada enemigo un script de ScoreOnDeath que otorga puntos al jugador cuando el enemigo es destruido.
 
-![Screenshot 2024-11-07 182419](https://github.com/user-attachments/assets/ff1a448e-33c6-4425-a5e9-ac7a4fbb41d6)
+![image](https://github.com/user-attachments/assets/6b9a87b9-d019-4157-a7d0-d7c42490ff9d)
 
 Este script maneja y actualiza la puntuación total del jugador en el juego, reflejando los puntos ganados al eliminar enemigos.
 
-![Screenshot 2024-11-07 183356](https://github.com/user-attachments/assets/8289a13f-268e-452c-a3b7-3def1d9fd297)
+![image](https://github.com/user-attachments/assets/52153a1c-190b-4a25-ba1e-6b3c89ca0dcc)
 
 Se creó un script llamado GameModeManager que cambia la escena del juego a una de victoria o derrota según el resultado. 
 Este script monitorea el estado del juego y define el fin de la partida en función del éxito o fracaso del jugador.
@@ -101,6 +105,8 @@ Este script monitorea el estado del juego y define el fin de la partida en funci
 
 Lose
 ![image](https://github.com/user-attachments/assets/c443f5f4-aa61-47ef-b1d0-a76014e932f0)
+
+Win
 ![image](https://github.com/user-attachments/assets/6001f6a1-d808-4e35-9114-fdf5bbc7479d)
 
 
